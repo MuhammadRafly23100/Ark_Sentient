@@ -9,7 +9,7 @@ header('Content-Type: text/plain'); // Untuk memudahkan melihat output di browse
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 
-$api_key = 'AIzaSyCDQLa2hNm2v5f6F4uNnJm4QX7Wq11ABck';
+$api_key = 'k';
 
 // Endpoint untuk mendaftar model yang tersedia
 $list_models_endpoint = "https://generativelanguage.googleapis.com/v1beta/models?key={$api_key}";

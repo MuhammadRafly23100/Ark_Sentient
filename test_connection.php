@@ -10,7 +10,7 @@ use GuzzleHttp\Exception\RequestException;
 // --- KONFIGURASI AI ---
 // !!! PENTING: GANTI 'PASTE_YOUR_GEMINI_API_KEY_HERE' DENGAN API Key Gemini Anda yang VALID!
 // Jangan biarkan kosong atau placeholder.
-$gemini_api_key = 'AIzaSyCDQLa2hNm2v5f6F4uNnJm4QX7Wq11ABck';
+$gemini_api_key = '';
 
 // Model ID yang benar (sesuai hasil test_list_models.php)
 $gemini_model = 'gemini-1.5-flash';

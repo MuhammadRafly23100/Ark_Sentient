@@ -25,7 +25,7 @@ use GuzzleHttp\Exception\RequestException;
 // --- KONFIGURASI AI ---
 // !!! PENTING: GANTI 'PASTE_YOUR_GEMINI_API_KEY_HERE' DENGAN API Key Gemini Anda!
 // DI PRODUKSI, JANGAN PERNAH MENYIMPAN API KEY LANGSUNG DI KODE. Gunakan environment variables.
-$gemini_api_key = 'AIzaSyCDQLa2hNm2v5f6F4uNnJm4QX7Wq11ABck';
+$gemini_api_key = ',';
 $gemini_model = 'gemini-1.5-flash';
 
 // UBAH BARIS INI: Endpoint dengan 'models/' yang eksplisit
